@@ -1,6 +1,13 @@
 # Vsdsquadron-Mini-Internship
 ####  The VSDSquadron Mini is a tiny RISC-V development board. It features a 32-bit RISC-V core, multiple clock options, 15 GPIO pins, and various communication ports like SPI and I2C.
 # FEATURES 
+# Simpler instruction, hence simple instruction decoding.
+Instruction comes undersize of one word.
+Instruction takes a single clock cycle to get executed.
+More general-purpose registers.
+Simple Addressing Modes.
+Fewer Data types.
+A pipeline can be achieved. 
 
 
 
